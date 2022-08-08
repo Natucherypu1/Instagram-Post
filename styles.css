@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    width: 400px;
+    height: 800px;
+    margin: auto;
+}
+.post-header{
+    display: flex;
+padding-top: 10px;
+}
+h5{
+    margin: 0px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+.bookmark-icon{
+  margin-left: 275px;
+    
+}
+.footer-icons{
+    padding-top: 10px;
+}
+.fa-html5{
+    margin-top: 15px;
+}
+.fa-ellipsis-vertical{
+    margin-left: 300px;
+    margin-top: 8px;
+}
+p{
+
+    padding-left: 3px;
+}
