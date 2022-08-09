@@ -3,36 +3,45 @@ body{
 }
 .post{
     background-color: white;
-    width: 400px;
-    height: 800px;
+    width: 40rem;
+    
     margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 .post-header{
     display: flex;
-padding-top: 10px;
+    justify-content: space-between;
+padding-top: 5px;
+margin-bottom: 5px;
 }
-h5{
-    margin: 0px;
-}
+
+
 img{
-    width: 400px;
-    height: auto;
+    object-fit: contain;
+    width: 40rem;
 }
 .bookmark-icon{
-  margin-left: 275px;
+  margin-left: 525px;
     
 }
 .footer-icons{
     padding-top: 10px;
 }
-.fa-html5{
-    margin-top: 15px;
-}
-.fa-ellipsis-vertical{
-    margin-left: 300px;
-    margin-top: 8px;
+.left-parts{
+    display: flex;
 }
 p{
 
     padding-left: 3px;
+}
+.ellipsis-icon{
+    margin-top: 7px;
+    
+}
+.header-title{
+    margin-left: 5px;
+    
+}
+.html5-icon{margin-top: 10px;
 }
